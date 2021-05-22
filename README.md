@@ -1,2 +1,2 @@
-# NikolayPPP.github.io
+# nikolayppp.github.io
 For educational purposes
